@@ -72,7 +72,7 @@ https://marketplace.visualstudio.com/items?itemName=shamanu4.django-intellisense
 
 3: ![Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)	->	destaca erros e avisos e torna mais fácil sua detecção e tratamento
 
-4: ![Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)	->	Salva constantemente backups das edições no código em arquivo na pasta raiz_do_projeto/.history
+4: ![Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history)	->	Salva constantemente backups das edições no código em arquivos na pasta raiz_do_projeto/.history
 
 5: ![Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)	->	Exibe informações relevantes sobre edições no arquivo, autores, commits que trouxeram determinadas modificações
 
