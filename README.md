@@ -66,7 +66,7 @@ https://marketplace.visualstudio.com/items?itemName=shamanu4.django-intellisense
 
 ## Extensões que eu uso para aumentar a produtividade (não segue ordem de relevância):
 
-1: ![Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 	->	 Quando se tem um par tags html (ou xml e similares) como `<tag></tag>` e ocorre mudança no nome de uma, a outra é automaticamente renomeada com o testo correspondente.
+1: ![Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) 	->	 Quando se tem um par de tags html (ou xml e similares) como `<tag></tag>` e ocorre mudança no nome de uma, a outra é automaticamente renomeada com o texto correspondente.
 
 2: ![Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)	->	Permite realçar, em cores, diferentes tipos de comentários para facilitar o desenvolvimento em equipe e a fácil identificação de referências
 
