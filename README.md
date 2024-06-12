@@ -1,7 +1,7 @@
 # VSCode-Django
 Minhas configurações padrão para usar o Django no VSCode:
 
-Use CTRL + SHIFT + P para abrir a busca por funções do programa e pesquise por Preferências: Abrir as Configurações do Usuário (JSON). Então seu arquivo json deve se parecer com o seguintte:
+Use CTRL + SHIFT + P para abrir a busca por funções do programa e pesquise por ˋPreferências: Abrir as Configurações do Usuário (JSON)ˋ. Então seu arquivo json deve se parecer com o seguintte:
 ```json
 {
   // salva automaticamente após cada alteração
